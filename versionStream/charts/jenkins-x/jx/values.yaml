@@ -2,6 +2,8 @@ jxRequirements:
   ingress:
     domain: cluster.local
     namespaceSubDomain: "."
+    customHosts:
+      hook: "4a76c8bd04a6.ngrok.io"
     tls:
       enabled: true
 
