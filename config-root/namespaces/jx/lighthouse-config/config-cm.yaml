@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - jihot2000/my-jx3-kubernetes
-      target_url: http://dashboard-jx.
+      target_url: http://dashboard-jx.10.2.1.1.nip.io
 kind: ConfigMap
 metadata:
   creationTimestamp: null
